@@ -1,0 +1,20 @@
+#login{
+    float: right;
+    width: 60%;
+    border-radius: 300px 10px 10px 300px;
+    border-left: 50px solid;
+    border-left-color: #75abff;
+    border-bottom: 50px solid;
+    border-top: 50px solid;
+    background-color: #FFF;
+    transition: 1.5s;     
+}
+#login:hover{
+    color: #75abff;
+    border-left-color: #333;
+    transition: 1.5s;     
+}
+
+#ul-menu li a{
+    text-decoration: none;
+}
